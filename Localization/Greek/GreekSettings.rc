@@ -1,9 +1,9 @@
 STRINGTABLE
-LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 {
-2000, "Apply"
-2001, "Cancel"
-2002, "Rename"
+2000, "Εφαρμογή"
+2001, "Άκυρο"
+2002, "Μετονομασία"
 
 2100, "Rename monitor"
 2101, "New name for %0:s"
@@ -12,8 +12,8 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 2150, "Levels"
 2151, "Use defaults"
 
-2155, "Critical level from %0:d%% to"
-2156, "Low level from %0:d%% to"
-2157, "Medium level from %0:d%% to"
-2158, "High level from %0:d%% to %1:d%%"
+2155, "Κρίσιμο επίπεδο από %0:d%% έως"
+2156, "Χαμηλό επίπεδο από %0:d%% έως"
+2157, "Μεσαίο επίπεδο από %0:d%% έως"
+2158, "Υψηλό επίπεδο από %0:d%% έως %1:d%%"
 }
