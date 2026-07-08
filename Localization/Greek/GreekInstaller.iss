@@ -1,31 +1,31 @@
 ﻿[CustomMessages]
 ; InstallType
-english.InstallType=Select Installation Type
+greek.InstallType=Select Installation Type
 ; InstallTypeDescription
-english.InstallTypeDescription=You can install standard or portable version of {#AppName}
+greek.InstallTypeDescription=You can install standard or portable version of {#AppName}
 
 ; AllUserRadioButton
-english.AllUserRadioButton=Install to Program Files
+greek.AllUserRadioButton=Install to Program Files
 ; AllUserDescLabel
-english.AllUserDescLabel=Administrator access required.%nThe program will be installed to all users
+greek.AllUserDescLabel=Administrator access required.%nThe program will be installed to all users
 
 ; JustForMeRadioButton
-english.JustForMeRadioButton=Install to AppData
+greek.JustForMeRadioButton=Install to AppData
 ; JustForMeDescLabel
-english.JustForMeDescLabel=No Administrator access required.%nThe program will be installed to current user only
+greek.JustForMeDescLabel=No Administrator access required.%nThe program will be installed to current user only
 
 ; PortableRadioButton
-english.PortableRadioButton=Portable Installation
+greek.PortableRadioButton=Portable Installation
 ; PortableDescLabel
-english.PortableDescLabel=Places the program to the selected folder
+greek.PortableDescLabel=Places the program to the selected folder
 
 ; SysIcons
-english.SysIcons=Disable System Power Icon
+greek.SysIcons=Disable System Power Icon
 ; SysIconsDescription
-english.SysIconsDescription=You can hide system power icon to make {#AppName} the only power icon in your tray 
+greek.SysIconsDescription=You can hide system power icon to make {#AppName} the only power icon in your tray 
 ; SysIconsDescLabel
-english.SysIconsDescLabel=Click "System Icons Settings" button and turn off "Power" to hide system power icon.%n%nYou can always access this window using {#AppName} menu.
+greek.SysIconsDescLabel=Click "System Icons Settings" button and turn off "Power" to hide system power icon.%n%nYou can always access this window using {#AppName} menu.
 ; SysIconsDescLabelWin10
-english.SysIconsDescLabelWin10=Click "System Icons Settings" button, click "Turn system icons on or off" and turn off "Power" to hide system power icon.%n%nYou can always access this window using {#AppName} menu.
+greek.SysIconsDescLabelWin10=Click "System Icons Settings" button, click "Turn system icons on or off" and turn off "Power" to hide system power icon.%n%nYou can always access this window using {#AppName} menu.
 ; SysIconButton
-english.SysIconButton=System Icons Settings
+greek.SysIconButton=System Icons Settings
