@@ -1,17 +1,17 @@
 STRINGTABLE
-LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 {
 700, "N/A"
 701, "Unknown"
 
 704, "Power system"
-705, "Battery properties"
+705, "Ιδιότητες μπαταρίας"
 
-710, "Device Name"
-711, "Manufacturer"
-712, "Date of Manufacture"
-713, "Serial Number"
-714, "Battery Type"
+710, "Όνομα συσκευής"
+711, "Κατασκευαστής"
+712, "Ημερομηνία κατασκευής"
+713, "Σειριακός αριθμός"
+714, "Τύπος μπαταρίας"
 715, "Charge/Discharge Cycles"
 716, "Wear Level"
 717, "Power State"
@@ -24,7 +24,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 724, "Discharge Rate"
 725, "Warning Battery Alert 1"
 726, "Warning Battery Alert 2"
-727, "Temperature"
+727, "Θερμοκρασία"
 
 740, "Nonrechargeable %0:s"
 741, "Rechargeable %0:s"
@@ -36,21 +36,21 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 747, "Fully Discharged"
 748, "Discharging"
 
-750, "&View"
-751, "&Always on top"
+750, "&Προβολή"
+751, "&Πάντα σε πρώτο πλάνο"
 
-755, "&File"
-756, "&Close"
-757, "&Save"
-758, "Save &As..."
-759, "All Files"
-760, "Text Files"
+755, "&Αρχείο"
+756, "&Κλείσιμο"
+757, "&Αποθήκευση"
+758, "Αποθήκευση &ως..."
+759, "Όλα τα αρχεία"
+760, "Αρχεία κειμένου"
 761, "Log Files"
 
 765, "Power Management Properties"
 
 770, "Current Power Source"
-771, "Battery Status"
+771, "Κατάσταση μπαταρίας"
 772, "Full Battery Lifetime"
 773, "Remaining Battery Lifetime"
 
@@ -59,7 +59,7 @@ LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
 
 780, "AC Line"
 781, "UPS"
-782, "Battery"
+782, "Μπαταρία"
 
 784, "No battery"
 785, "%0:d%% (High, Charging)"
