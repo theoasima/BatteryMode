@@ -8,10 +8,10 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 904, "Παράλειψη αυτής της έκδοσης"
 905, "Υπενθύμιση αργότερα"
 906, "Εγκατάσταση ενημέρωσης"
-907, "Είστε ενημερωμένοι!"
+907, "Έχετε την πιο πρόσφατη έκδοση!"
 908, "%0:s %1:s is currently the newest version available."
 909, "Κλείσιμο"
-910, "An error has occurred while downloading updates"
+910, "Παρουσιάστηκε σφάλμα κατά τη λήψη των ενημερώσεων"
 911, "Unable to initialize the update"
 912, "Τρέχουσα έκδοση"
 }
