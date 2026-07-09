@@ -1,7 +1,7 @@
 STRINGTABLE
 LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 {
-0, "Greek"
+0, "Ελληνικά"
 1, "Battery Mode"
 2, "Select the power scheme:"
 3, "&Ρυθμίσεις"
