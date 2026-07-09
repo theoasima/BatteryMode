@@ -52,8 +52,8 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 
 60, "Εξοικονόμηση μπαταρίας"
 
-69, "System style"
-70, "Icons &style"
+69, "Στυλ συστήματος"
+70, "&Στυλ εικονιδίων"
 71, "Windows 7"
 72, "Windows 8"
 73, "Windows 10"
