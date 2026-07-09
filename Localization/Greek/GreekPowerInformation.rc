@@ -2,9 +2,9 @@ STRINGTABLE
 LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 {
 700, "Μ/Δ"
-701, "Unknown"
+701, "Άγνωστο"
 
-704, "Power system"
+704, "Σύστημα τροφοδοσίας"
 705, "Ιδιότητες μπαταρίας"
 
 710, "Όνομα συσκευής"
