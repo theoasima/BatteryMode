@@ -41,14 +41,14 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 46, "Η ενημέρωση απέτυχε\nΚάντε κλικ εδώ για να επισκεφθείτε την ιστοσελίδα"
 
 50, "Εμφάνιση ρυθμιστικού &φωτεινότητας για οθόνες"
-51, "Sca&n for monitors"
+51, "&Σάρωση για οθόνηες"
 52, "Ενσωματωμένη οθόνη"
 53, "Ρυθμιστικό &φωτεινότητας"
 54, "Εμφάνιση μοντέλου &οθόνης"
 55, "Εμφάνιση &φωτεινότητας σε ποσοστό"
 56, "Φωτεινότητα"
-57, "Adjust this monitor brightness by scrolling over tray icon"
-58, "Re-apply brightness after monitor wakes up from standby"
+57, "Ρύθμιση φωτεινότητας αυτής της οθόνης με κύλιση πάνω από το εικονίδιο στη γραμμή συστήματος"
+58, "Επανεφαρμογή φωτεινότητας μετά την επαναφορά της οθόνης από αναμονή"
 
 60, "Εξοικονόμηση μπαταρίας"
 
@@ -94,10 +94,10 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 126, "Based on charger"
 127, "Based on charger or battery charge"
 
-130, "Disable popup window's bo&rder"
+130, "Απενεργοποίηση &περιγράμματος αναδυόμενου παραθύρου"
 131, "Use &crossed icon when the battery is missing"
-132, "Display charge &percentage in tray"
-133, "White icon for Balanced Power Scheme"
+132, "Εμφάνιση &ποσοστού φόρτισης στη γραμμή συστήματος"
+133, "Λευκό εικονίδιο για εξισορροπημένο σχέδιο παροχής ενέργειας"
 134, "&Τερματισμός λειτουργίας ή αποσύνδεση χρήστη"
 135, "Popup footer &link"
 136, "&Απενεργοποίηση οθόνης"
