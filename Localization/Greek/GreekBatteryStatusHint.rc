@@ -9,7 +9,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 624, "%2:u%% available (plugged in, charging)"
 625, "%2:u%% available (plugged in, not charging)"
 626, "Fully charged (100%%)"
-627, "No battery is detected"
+627, "Δεν εντοπίστηκε μπαταρία"
 628, "Plugged in and not charging"
 
 650, "%0:u hr %1:.2u min (%2:u%%) remaining"
