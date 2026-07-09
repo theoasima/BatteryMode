@@ -1,7 +1,7 @@
 STRINGTABLE
 LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 {
-700, "N/A"
+700, "Μ/Δ"
 701, "Unknown"
 
 704, "Power system"
@@ -12,18 +12,18 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 712, "Ημερομηνία κατασκευής"
 713, "Σειριακός αριθμός"
 714, "Τύπος μπαταρίας"
-715, "Charge/Discharge Cycles"
-716, "Wear Level"
-717, "Power State"
-718, "Designed Capacity"
-719, "Fully Charged Capacity"
-720, "Current Capacity"
-721, "Battery Voltage"
-722, "Charge/Discharge Rate"
-723, "Charge Rate"
-724, "Discharge Rate"
-725, "Warning Battery Alert 1"
-726, "Warning Battery Alert 2"
+715, "Κύκλοι φόρτισης/εκφόρτισης"
+716, "Επίπεδο φθοράς"
+717, "Κατάσταση τροφοδοσίας"
+718, "Ονομαστική χωρητικότητα"
+719, "Χωρητικότητα πλήρους φόρτισης"
+720, "Τρέχουσα χωρητικότητα"
+721, "Τάση μπαταρίας"
+722, "Ρυθμός φόρτισης/εκφόρτισης"
+723, "Ρυθμός φόρτισης"
+724, "Ρυθμός εκφόρτισης"
+725, "Πρώτη προειδοποίηση μπαταρίας"
+726, "Δεύτερη προειδοποίηση μπαταρίας"
 727, "Θερμοκρασία"
 
 740, "Nonrechargeable %0:s"
@@ -45,17 +45,17 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 758, "Αποθήκευση &ως..."
 759, "Όλα τα αρχεία"
 760, "Αρχεία κειμένου"
-761, "Log Files"
+761, "Αρχεία καταγραφής"
 
 765, "Power Management Properties"
 
-770, "Current Power Source"
+770, "Τρέχουσα πηγή τροφοδοσίας"
 771, "Κατάσταση μπαταρίας"
-772, "Full Battery Lifetime"
-773, "Remaining Battery Lifetime"
+772, "Συνολική διάρκεια ζωής μπαταρίας"
+773, "Υπολειπόμενη διάρκεια ζωής μπαταρίας"
 
-775, "%0:u hr %1:.2u min"
-776, "%1:u min"
+775, "%0:u ώρ. %1:.2u λεπτ."
+776, "%1:u λεπτ."
 
 780, "AC Line"
 781, "UPS"
