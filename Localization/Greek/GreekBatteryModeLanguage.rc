@@ -7,8 +7,8 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 3, "&Ρυθμίσεις"
 4, "Use &monochromatic icons"
 5, "Configure"
-6, "&Autostart with Windows"
-7, "Fixed screen &brightness"
+6, "&Αυτόματη έναρξη με τα Windows"
+7, "Σταθερή &φωτεινότητα οθόνης"
 
 9, "&Έξοδος"
 10, "Έκδοση"
@@ -22,8 +22,8 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 
 20, "Power scheme &indicator"
 21, "&Don't show"
-22, "Show on the &primary monitor"
-23, "Show on &all monitors"
+22, "Εμφάνιση στην &κύρια οθόνη"
+23, "Εμφάνιση σε &όλες τις οθόνες"
 24, "Διαφάνεια"
 
 26, "&Hidden power schemes"
@@ -36,21 +36,21 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 41, "Αυτόματες &ενημερώσεις"
 42, "&Ενεργοποίηση αυτόματων ενημερώσεων"
 43, "&Έλεγχος για ενημερώσεις"
-44, "New version of %0:s is available\nClick here for more details"
+44, "Μια νέα έκδοση του %0:s είναι διαθέσιμη\nΚάντε κλικ εδώ για περισσότερες λεπτομέρειες"
 45, "Update successful\nThe new version is %0:s"
-46, "Update failed\nClick here to visit the website"
+46, "Η ενημέρωση απέτυχε\nΚάντε κλικ εδώ για να επισκεφθείτε την ιστοσελίδα"
 
 50, "Display &brightness slider for monitors"
 51, "Sca&n for monitors"
-52, "Internal monitor"
+52, "Ενσωματωμένη οθόνη"
 53, "B&rightness slider"
-54, "Show &monitor model"
+54, "Εμφάνιση μοντέλου &οθόνης"
 55, "Show &brightness in percents"
 56, "Φωτεινότητα"
 57, "Adjust this monitor brightness by scrolling over tray icon"
 58, "Re-apply brightness after monitor wakes up from standby"
 
-60, "Battery saver"
+60, "Εξοικονόμηση μπαταρίας"
 
 69, "System style"
 70, "Icons &style"
@@ -64,7 +64,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 78, "Windows 11"
 79, "Windows 11 Light"
 
-80, "Sc&heduler"
+80, "&Χρονοδιάγραμμα"
 81, "Interface"
 82, "Κύριο παράθυρο"
 83, "Εικονίδια"
@@ -112,10 +112,10 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 145, "&Αποσύνδεση"
 
 150, "&Γλώσσα"
-151, "&Default"
+151, "&Προεπιλεγμένη"
 
-160, "Maximum performance"
-161, "Best performance"
+160, "Μέγιστη απόδοση"
+161, "Βέλτιστη απόδοση"
 162, "Better battery"
 
 170, "Power scheme &sets to use"
@@ -138,7 +138,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 210, "Πληροφορίες"
 211, "Δημιουργός"
 212, "Artem Tarasov"
-213, "Ιστότοπος Battery Mode"
+213, "Ιστοσελίδα Battery Mode"
 214, "Battery Mode Documentation"
 215, "https://en.bmode.tarcode.ru/help"
 216, "Σχόλια"
