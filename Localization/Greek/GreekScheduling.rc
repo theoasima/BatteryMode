@@ -4,7 +4,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 1000, "Χρονοδιάγραμμα"
 1001, "Εφαρμογή"
 1002, "Άκυρο"
-1003, "Add rule"
+1003, "Προσθήκη κανόνα"
 
 1005, "Βοήθεια χρονοδιαγράμματος"
 1006, "https://bmode.tarcode.ru/scheduler-help"
@@ -13,22 +13,22 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 
 1020, "Ενεργοποίηση χρονοδιαγράμματος"
 
-1030, "When %0:s"
-1031, "and %0:s"
-1032, "or %0:s"
+1030, "Όταν %0:s"
+1031, "και %0:s"
+1032, "ή %0:s"
 1033, "%0:s"
-1034, "and %0:s"
+1034, "και %0:s"
 1035, "No triggers defined yet"
 1036, "while %0:s"
-1037, "and %0:s"
-1038, "or %0:s"
+1037, "και %0:s"
+1038, "ή %0:s"
 
 1040, "Ενεργοποίηση"
 
 1045, "Τροποποίηση"
 1046, "Διαγραφή"
 
-1050, "New rule"
+1050, "Νέος κανόνας"
 
 1060, "Move up"
 1061, "Move down"
@@ -42,21 +42,21 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 1080, "Όνομα"
 1081, "Do not apply other rules"
 
-1085, "If"
+1085, "Εάν"
 1086, "all the following conditions are met"
 1087, "any of the following conditions are met"
 1088, "While"
 
-1090, "Delete"
+1090, "Διαγραφή"
 1091, "Unknown condition"
-1092, "Clear"
+1092, "Εκκαθάριση"
 
 1095, "Add trigger"
 1096, "Perform actions"
 1097, "Add condition"
 
-1100, "show message \"%0:s\""
-1101, "Show message"
+1100, "εμφάνιση μηνύματος \"%0:s\""
+1101, "Εμφάνιση μηνύματος"
 
 1110, "set power scheme \"%0:s\""
 1111, "Set power scheme"
@@ -69,19 +69,19 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 1126, "Launch hidden"
 
 1130, "Αναπαραγωγή ήχου"
-1131, "play sound \"%0:s\""
-1132, "play sound \"%0:s\" with volume %1:d%%"
+1131, "αναπαραγωγή ήχου \"%0:s\""
+1132, "αναπαραγωγή ήχου \"%0:s\" με ένταση %1:d%%"
 
 1135, "Αναζήτηση"
-1136, "Volume"
+1136, "Ένταση"
 1137, "Αρχεία ήχου"
 1138, "Όλα τα αρχεία"
 
 1140, "Power"
-1141, "shut down this computer"
-1142, "restart Windows"
+1141, "τερματισμός λειτουργίας αυτού του υπολογιστή"
+1142, "επανεκκίνηση των Windows"
 1143, "put this computer into sleep"
-1144, "hibernate this computer"
+1144, "αδρανοποίηση αυτού του υπολογιστή"
 1145, "turn off screen"
 1146, "turn on screen"
 
@@ -114,10 +114,10 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 1246, "gets opened"
 
 1250, "the computer goes to sleep/hibernation"
-1251, "Sleep/Hibernation"
+1251, "Αναστολή λειτουργίας/Αδρανοποίηση"
 
 1255, "the computer wakes up from sleep/hibernation"
-1256, "Waking up from Sleep/Hibernation"
+1256, "Αφύπνιση από αναστολή λειτουργίας/αδρανοποίηση"
 
 1260, "display %0:s"
 1261, "Display"
