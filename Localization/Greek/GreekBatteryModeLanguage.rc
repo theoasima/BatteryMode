@@ -77,7 +77,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 100, "Εξαγωγή ρυθμίσεων σε αρχείο"
 101, "Εισαγωγή ρυθμίσεων από αρχείο"
 
-105, "%0:s Settings"
+105, "Ρυθμίσεις %0:s"
 106, "Εξαγωγή ρυθμίσεων %0:s"
 107, "Εισαγωγη ρυθμίσεων %0:s"
 
@@ -95,7 +95,7 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 127, "Based on charger or battery charge"
 
 130, "Απενεργοποίηση &περιγράμματος αναδυόμενου παραθύρου"
-131, "Use &crossed icon when the battery is missing"
+131, "Χρήση εικονιδίου με &Χ όταν δεν υπάρχει μπαταρία"
 132, "Εμφάνιση &ποσοστού φόρτισης στη γραμμή συστήματος"
 133, "Λευκό εικονίδιο για εξισορροπημένο σχέδιο παροχής ενέργειας"
 134, "&Τερματισμός λειτουργίας ή αποσύνδεση χρήστη"
@@ -118,22 +118,22 @@ LANGUAGE LANG_GREEK, SUBLANG_DEFAULT
 161, "Βέλτιστη απόδοση"
 162, "Καλύτερη διάρκεια μπαταρίας"
 
-170, "Power scheme &sets to use"
+170, "&Σλυνολα σχεδίων παροχής ενέργειας για χρήση"
 171, "&Κλασικά σχέδια παροχής ενέργειας"
 172, "Λειτουργίες παροχής ενέργειας των &Windows 10"
 173, "Σχέδια παροχής ενέργειας"
 
-180, "Display large Power Scheme Indicator in the middle of screen(s) when switching a Power Scheme"
+180, "Εμφάνιση μεγάλης ένδειξης σχεδίου παροχής ενέργειας στο κέντρο της οθόνης(ών) κατά την αλλαγή σχεδίου παροχής ενέργειας"
 181, "Use crossed Battery Icon when battery is removed from computer"
-182, "Display current charge percentage instead of Battery Icon in system tray"
+182, "Εμφάνιση τρέχοντος ποσοστού φόρτισης αντί για εικονίδιο μπαταρίας στη γραμμή συστήματος"
 183, "Make window border thin and remove shadow"
-184, "Display \"Classic\" Power Schemes (ex. \"Power saver\" and \"High performance\") in Power Scheme list, even when they are hidden by OS"
+184, "Εμφάνιση \"κλασικών\" σχεδίων παροχής ενέργειας (π.χ. \"Εξοικονόμηση ενέργειας\" και \"Υψηλή επίδοση\") στη λίστα σχεδίων παρχοής ενέργειας, ακόμα και όταν είναι κρυφά από το λειτουργικό σύστημα"
 185, "Display balanced plan's Power Modes (which are controlled by slider in default Windows 10 Battery Popup) in Power Scheme list"
 186, "Display vendor-specific, hidden Power Schemes in Power Scheme list"
-187, "Configure global hotkey to switch through Power Schemes"
-188, "Prevent internal screen brightness from being changed when you switch a Power Scheme or (dis)connect the charger"
-189, "Automatically check for updates (once a day) and ask to update"
-190, "Use white icon instead of yellow for Balanced Power Scheme"
+187, "Ρύθμιση καθολικού πλήκτρου συντόμευσης για εναλλαγή μεταξύ σχεδίων παροχής ενέργειας"
+188, "Αποτροπή αλλαγής φωτεινότητας εσωτερικής οθόνης κατά την αλλαγή σχεδίου παροχής ενέργειας ή σύνδεση/αποσύνδεση του φορτιστή"
+189, "Αυτόματος έλεγχος για ενημερώσεις (μία φορά την ημέρα) και ερώτηση για ενημέρωση"
+190, "Χρήση λευκού εικονιδίου αντί για κίτρινο για εξισορροπημένο σχέδιο παροχής ενέργειας"
 
 210, "Πληροφορίες"
 211, "Δημιουργός"
